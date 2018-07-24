@@ -1,0 +1,4 @@
+pytest
+pretend
+flake8
+coverage
